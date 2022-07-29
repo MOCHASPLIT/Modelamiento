@@ -1,0 +1,3557 @@
+[
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "29,761",
+    "Inventario": "191,821",
+    "Devoluciones": "769"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "67,242",
+    "Inventario": "118,036",
+    "Devoluciones": "2,284"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "76,793",
+    "Inventario": "136,273",
+    "Devoluciones": "2,433"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "62,819",
+    "Inventario": "204,284",
+    "Devoluciones": "1,861"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "68,641",
+    "Inventario": "279,795",
+    "Devoluciones": "1,771"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "1,690",
+    "Inventario": "16,634",
+    "Devoluciones": "79"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "51,541",
+    "Inventario": "98,641",
+    "Devoluciones": "940"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Addis Ababa",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "108,942",
+    "Inventario": "311,017",
+    "Devoluciones": "3,233"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "21,297",
+    "Inventario": "73,737",
+    "Devoluciones": "710"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "63,206",
+    "Inventario": "100,982",
+    "Devoluciones": "2,221"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "123,743",
+    "Inventario": "428,575",
+    "Devoluciones": "3,621"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "29,198",
+    "Inventario": "84,447",
+    "Devoluciones": "1,530"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "64,891",
+    "Inventario": "248,198",
+    "Devoluciones": "1,823"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "2,617",
+    "Inventario": "9,372",
+    "Devoluciones": "168"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Algiers",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "90,648",
+    "Inventario": "266,805",
+    "Devoluciones": "2,690"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 20,
+    "Ventas": "4,846",
+    "Inventario": "18,965",
+    "Devoluciones": "229"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "360,209",
+    "Inventario": "1,063,251",
+    "Devoluciones": "9,424"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "4,051",
+    "Inventario": "45,962",
+    "Devoluciones": "97"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "10,532",
+    "Inventario": "50,430",
+    "Devoluciones": "598"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "13,732",
+    "Inventario": "54,117",
+    "Devoluciones": "1,216"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "2,259",
+    "Inventario": "20,815",
+    "Devoluciones": "44"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "328,474",
+    "Inventario": "940,851",
+    "Devoluciones": "10,124"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Cairo",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "14,095",
+    "Inventario": "51,145",
+    "Devoluciones": "745"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Johannesburg",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "8,365",
+    "Inventario": "33,011",
+    "Devoluciones": "483"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Johannesburg",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "17,337",
+    "Inventario": "63,003",
+    "Devoluciones": "809"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Johannesburg",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "39,452",
+    "Inventario": "130,025",
+    "Devoluciones": "1,565"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Johannesburg",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "5,172",
+    "Inventario": "29,368",
+    "Devoluciones": "139"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Johannesburg",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "42,682",
+    "Inventario": "120,127",
+    "Devoluciones": "966"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 24,
+    "Ventas": "19,282",
+    "Inventario": "105,370",
+    "Devoluciones": "700"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "9,244",
+    "Inventario": "16,230",
+    "Devoluciones": "478"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "18,053",
+    "Inventario": "51,132",
+    "Devoluciones": "1,177"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "26,427",
+    "Inventario": "81,825",
+    "Devoluciones": "1,281"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "43,452",
+    "Inventario": "143,015",
+    "Devoluciones": "1,573"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "2,521",
+    "Inventario": "27,041",
+    "Devoluciones": "84"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "19,582",
+    "Inventario": "30,727",
+    "Devoluciones": "384"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Khartoum",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "48,031",
+    "Inventario": "132,679",
+    "Devoluciones": "1,374"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "13,921",
+    "Inventario": "70,736",
+    "Devoluciones": "553"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "57,691",
+    "Inventario": "95,663",
+    "Devoluciones": "1,699"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "16,662",
+    "Inventario": "104,438",
+    "Devoluciones": "611"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "52,807",
+    "Inventario": "183,937",
+    "Devoluciones": "1,440"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "4,888",
+    "Inventario": "27,998",
+    "Devoluciones": "162"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "17,919",
+    "Inventario": "21,363",
+    "Devoluciones": "400"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Kinshasa",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "32,928",
+    "Inventario": "87,149",
+    "Devoluciones": "717"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "6,081",
+    "Inventario": "51,572",
+    "Devoluciones": "325"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "62,893",
+    "Inventario": "149,864",
+    "Devoluciones": "1,701"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "29,582",
+    "Inventario": "67,247",
+    "Devoluciones": "705"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "11,145",
+    "Inventario": "19,900",
+    "Devoluciones": "657"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "19,146",
+    "Inventario": "97,060",
+    "Devoluciones": "701"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "801",
+    "Inventario": "3,247",
+    "Devoluciones": "29"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Luanda",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "8,467",
+    "Inventario": "47,387",
+    "Devoluciones": "210"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Nairobi",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "16,282",
+    "Inventario": "66,017",
+    "Devoluciones": "844"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Nairobi",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "8,587",
+    "Inventario": "20,877",
+    "Devoluciones": "363"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Nairobi",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "16,289",
+    "Inventario": "47,406",
+    "Devoluciones": "1,175"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Nairobi",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "34,955",
+    "Inventario": "87,438",
+    "Devoluciones": "1,320"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Nairobi",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "2,202",
+    "Inventario": "11,328",
+    "Devoluciones": "174"
+  },
+  {
+    "Region": "Africa",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Nairobi",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "28,515",
+    "Inventario": "62,740",
+    "Devoluciones": "678"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Bangkok",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "1,996",
+    "Inventario": "9,576",
+    "Devoluciones": "80"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Bangkok",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "3,033",
+    "Inventario": "20,831",
+    "Devoluciones": "52"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Bangkok",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "3,230",
+    "Inventario": "15,087",
+    "Devoluciones": "120"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Bangkok",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "3,019",
+    "Inventario": "16,075",
+    "Devoluciones": "127"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Bangkok",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "5,389",
+    "Inventario": "16,251",
+    "Devoluciones": "185"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "60,712",
+    "Inventario": "160,589",
+    "Devoluciones": "1,296"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "11,754",
+    "Inventario": "2,176",
+    "Devoluciones": "833"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "116,333",
+    "Inventario": "251,803",
+    "Devoluciones": "2,443"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "4,978",
+    "Inventario": "21,483",
+    "Devoluciones": "105"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "149,013",
+    "Inventario": "469,007",
+    "Devoluciones": "2,941"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "937",
+    "Inventario": "455",
+    "Devoluciones": "10"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "20,448",
+    "Inventario": "36,576",
+    "Devoluciones": "790"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Seoul",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "78,234",
+    "Inventario": "140,628",
+    "Devoluciones": "1,891"
+  },
+  {
+    "Region": "Asia",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Tokyo",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "1,155",
+    "Inventario": "15,602",
+    "Devoluciones": "22"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Calgary",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "17,720",
+    "Inventario": "63,280",
+    "Devoluciones": "472"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Calgary",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "12,775",
+    "Inventario": "39,663",
+    "Devoluciones": "353"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Calgary",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "2,886",
+    "Inventario": "15,838",
+    "Devoluciones": "147"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Calgary",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "5,676",
+    "Inventario": "48,061",
+    "Devoluciones": "253"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Calgary",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "9,745",
+    "Inventario": "38,059",
+    "Devoluciones": "264"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Calgary",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "12,601",
+    "Inventario": "54,677",
+    "Devoluciones": "488"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "40,213",
+    "Inventario": "240,132",
+    "Devoluciones": "1,472"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "53,929",
+    "Inventario": "187,155",
+    "Devoluciones": "2,241"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "112,009",
+    "Inventario": "355,170",
+    "Devoluciones": "3,713"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "3,002",
+    "Inventario": "18,382",
+    "Devoluciones": "122"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 24,
+    "Ventas": "135,305",
+    "Inventario": "500,053",
+    "Devoluciones": "3,395"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "29,435",
+    "Inventario": "178,128",
+    "Devoluciones": "1,129"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "24,497",
+    "Inventario": "34,808",
+    "Devoluciones": "832"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Montreal",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "132,638",
+    "Inventario": "483,637",
+    "Devoluciones": "2,880"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "7,892",
+    "Inventario": "28,162",
+    "Devoluciones": "377"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "19,210",
+    "Inventario": "29,249",
+    "Devoluciones": "578"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "2,600",
+    "Inventario": "1,727",
+    "Devoluciones": "27"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "30,905",
+    "Inventario": "89,576",
+    "Devoluciones": "1,397"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "2,598",
+    "Inventario": "15,007",
+    "Devoluciones": "204"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "18,712",
+    "Inventario": "46,064",
+    "Devoluciones": "427"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Ottawa",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "33,824",
+    "Inventario": "84,378",
+    "Devoluciones": "939"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "33,291",
+    "Inventario": "149,118",
+    "Devoluciones": "994"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "15,403",
+    "Inventario": "20,811",
+    "Devoluciones": "1,401"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "37,519",
+    "Inventario": "84,690",
+    "Devoluciones": "806"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "1,190",
+    "Inventario": "6,763",
+    "Devoluciones": "38"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "80,352",
+    "Inventario": "302,074",
+    "Devoluciones": "1,908"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 29,
+    "Ventas": "34,585",
+    "Inventario": "164,113",
+    "Devoluciones": "913"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "63,492",
+    "Inventario": "149,239",
+    "Devoluciones": "1,700"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Toronto",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "53,940",
+    "Inventario": "165,711",
+    "Devoluciones": "1,967"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "286,497",
+    "Inventario": "882,080",
+    "Devoluciones": "9,160"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "353,361",
+    "Inventario": "671,837",
+    "Devoluciones": "20,470"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 28,
+    "Ventas": "757,798",
+    "Inventario": "1,847,559",
+    "Devoluciones": "16,833"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "5,120",
+    "Inventario": "56,325",
+    "Devoluciones": "294"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 27,
+    "Ventas": "700,513",
+    "Inventario": "2,520,085",
+    "Devoluciones": "21,247"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 26,
+    "Ventas": "64,026",
+    "Inventario": "370,388",
+    "Devoluciones": "2,297"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 20,
+    "Ventas": "304,106",
+    "Inventario": "665,323",
+    "Devoluciones": "8,278"
+  },
+  {
+    "Region": "Canada",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Vancouver",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "756,347",
+    "Inventario": "2,503,387",
+    "Devoluciones": "19,378"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 33,
+    "Ventas": "102,372",
+    "Inventario": "393,376",
+    "Devoluciones": "4,454"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 28,
+    "Ventas": "576,112",
+    "Inventario": "1,159,556",
+    "Devoluciones": "20,005"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "270,863",
+    "Inventario": "618,703",
+    "Devoluciones": "7,447"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "200,156",
+    "Inventario": "624,163",
+    "Devoluciones": "8,365"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 37,
+    "Ventas": "476,638",
+    "Inventario": "1,555,357",
+    "Devoluciones": "15,713"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "18,177",
+    "Inventario": "86,162",
+    "Devoluciones": "944"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "215,069",
+    "Inventario": "275,321",
+    "Devoluciones": "7,361"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Kingston",
+    "Cantidad_Tiendas": 41,
+    "Ventas": "375,817",
+    "Inventario": "1,147,300",
+    "Devoluciones": "11,656"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "34,660",
+    "Inventario": "162,033",
+    "Devoluciones": "1,775"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "69,276",
+    "Inventario": "79,666",
+    "Devoluciones": "1,861"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "35,393",
+    "Inventario": "72,044",
+    "Devoluciones": "1,456"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 37,
+    "Ventas": "65,478",
+    "Inventario": "261,456",
+    "Devoluciones": "2,524"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "92,539",
+    "Inventario": "289,520",
+    "Devoluciones": "2,800"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "5,655",
+    "Inventario": "17,155",
+    "Devoluciones": "269"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "48,567",
+    "Inventario": "118,849",
+    "Devoluciones": "1,318"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Managua",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "63,238",
+    "Inventario": "163,951",
+    "Devoluciones": "2,308"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "20,819",
+    "Inventario": "79,994",
+    "Devoluciones": "814"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "66,216",
+    "Inventario": "70,123",
+    "Devoluciones": "2,198"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "30,157",
+    "Inventario": "78,950",
+    "Devoluciones": "1,012"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 33,
+    "Ventas": "52,233",
+    "Inventario": "175,201",
+    "Devoluciones": "2,127"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "96,113",
+    "Inventario": "340,122",
+    "Devoluciones": "4,028"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "2,196",
+    "Inventario": "23,183",
+    "Devoluciones": "59"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "31,301",
+    "Inventario": "91,171",
+    "Devoluciones": "973"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Mexico City",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "69,553",
+    "Inventario": "257,437",
+    "Devoluciones": "1,614"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Boot",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "32,892",
+    "Inventario": "135,309",
+    "Devoluciones": "1,504"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "44,909",
+    "Inventario": "182,986",
+    "Devoluciones": "1,355"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "68,482",
+    "Inventario": "137,355",
+    "Devoluciones": "2,756"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 27,
+    "Ventas": "60,515",
+    "Inventario": "210,250",
+    "Devoluciones": "3,287"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "217,891",
+    "Inventario": "707,919",
+    "Devoluciones": "6,825"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "936",
+    "Inventario": "4,546",
+    "Devoluciones": "74"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "104,420",
+    "Inventario": "318,207",
+    "Devoluciones": "4,240"
+  },
+  {
+    "Region": "Central America/Caribbean",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "San Juan",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "109,110",
+    "Inventario": "336,513",
+    "Devoluciones": "3,776"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "74,102",
+    "Inventario": "317,515",
+    "Devoluciones": "3,341"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "66,936",
+    "Inventario": "87,655",
+    "Devoluciones": "3,944"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "37,499",
+    "Inventario": "147,214",
+    "Devoluciones": "930"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "1,814",
+    "Inventario": "4,894",
+    "Devoluciones": "96"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "111,816",
+    "Inventario": "453,821",
+    "Devoluciones": "4,070"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "16,460",
+    "Inventario": "79,416",
+    "Devoluciones": "790"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "49,880",
+    "Inventario": "137,093",
+    "Devoluciones": "1,528"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Budapest",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "52,022",
+    "Inventario": "144,360",
+    "Devoluciones": "1,452"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "67,476",
+    "Inventario": "329,604",
+    "Devoluciones": "3,142"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "55,094",
+    "Inventario": "156,554",
+    "Devoluciones": "1,895"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "113,119",
+    "Inventario": "302,236",
+    "Devoluciones": "4,004"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "127,033",
+    "Inventario": "520,271",
+    "Devoluciones": "3,983"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "21,464",
+    "Inventario": "110,822",
+    "Devoluciones": "859"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "104,119",
+    "Inventario": "211,220",
+    "Devoluciones": "2,325"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Moscow",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "72,671",
+    "Inventario": "196,973",
+    "Devoluciones": "2,227"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "86,215",
+    "Inventario": "341,326",
+    "Devoluciones": "3,555"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "150,273",
+    "Inventario": "336,151",
+    "Devoluciones": "7,455"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "102,448",
+    "Inventario": "231,514",
+    "Devoluciones": "2,492"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "712",
+    "Inventario": "3,384",
+    "Devoluciones": "48"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 29,
+    "Ventas": "128,971",
+    "Inventario": "585,026",
+    "Devoluciones": "5,346"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "23,708",
+    "Inventario": "117,976",
+    "Devoluciones": "623"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "15,897",
+    "Inventario": "33,800",
+    "Devoluciones": "414"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Prague",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "128,497",
+    "Inventario": "425,237",
+    "Devoluciones": "3,434"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 26,
+    "Ventas": "78,992",
+    "Inventario": "363,358",
+    "Devoluciones": "3,246"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "304,093",
+    "Inventario": "729,044",
+    "Devoluciones": "9,364"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "82,695",
+    "Inventario": "205,338",
+    "Devoluciones": "2,862"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "1,190",
+    "Inventario": "960",
+    "Devoluciones": "57"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "141,878",
+    "Inventario": "712,365",
+    "Devoluciones": "6,336"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "29,570",
+    "Inventario": "139,313",
+    "Devoluciones": "1,053"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "39,360",
+    "Inventario": "102,641",
+    "Devoluciones": "1,365"
+  },
+  {
+    "Region": "Eastern Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Warsaw",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "108,936",
+    "Inventario": "425,390",
+    "Devoluciones": "4,465"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "15,062",
+    "Inventario": "44,658",
+    "Devoluciones": "765"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 24,
+    "Ventas": "340,201",
+    "Inventario": "616,745",
+    "Devoluciones": "13,251"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "261,445",
+    "Inventario": "711,246",
+    "Devoluciones": "6,979"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "1,380",
+    "Inventario": "13,343",
+    "Devoluciones": "62"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 26,
+    "Ventas": "66,796",
+    "Inventario": "201,779",
+    "Devoluciones": "3,052"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "449",
+    "Inventario": "1,836",
+    "Devoluciones": "43"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "226,514",
+    "Inventario": "447,377",
+    "Devoluciones": "5,966"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Al-Khobar",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "241,820",
+    "Inventario": "611,686",
+    "Devoluciones": "6,167"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "90,972",
+    "Inventario": "403,259",
+    "Devoluciones": "4,049"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 29,
+    "Ventas": "419,336",
+    "Inventario": "868,115",
+    "Devoluciones": "17,552"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "324,312",
+    "Inventario": "746,970",
+    "Devoluciones": "8,159"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 24,
+    "Ventas": "17,492",
+    "Inventario": "59,985",
+    "Devoluciones": "734"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "387,680",
+    "Inventario": "1,238,698",
+    "Devoluciones": "12,768"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "1,487",
+    "Inventario": "11,432",
+    "Devoluciones": "70"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "233,374",
+    "Inventario": "416,012",
+    "Devoluciones": "8,102"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Dubai",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "435,891",
+    "Inventario": "1,292,400",
+    "Devoluciones": "12,999"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 20,
+    "Ventas": "65,248",
+    "Inventario": "222,165",
+    "Devoluciones": "2,320"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "1,298,717",
+    "Inventario": "2,881,005",
+    "Devoluciones": "57,362"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 24,
+    "Ventas": "253,814",
+    "Inventario": "631,479",
+    "Devoluciones": "8,727"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "16,314",
+    "Inventario": "71,094",
+    "Devoluciones": "574"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "208,004",
+    "Inventario": "639,427",
+    "Devoluciones": "7,738"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "2,071",
+    "Inventario": "15,121",
+    "Devoluciones": "47"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "288,904",
+    "Inventario": "790,386",
+    "Devoluciones": "12,000"
+  },
+  {
+    "Region": "Middle East",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Tel Aviv",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "434,496",
+    "Inventario": "1,272,531",
+    "Devoluciones": "17,394"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "20,141",
+    "Inventario": "97,919",
+    "Devoluciones": "962"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "4,892",
+    "Inventario": "538",
+    "Devoluciones": "325"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "325",
+    "Inventario": "23,897",
+    "Devoluciones": "10"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "33,000",
+    "Inventario": "136,625",
+    "Devoluciones": "1,321"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "5,117",
+    "Inventario": "35,246",
+    "Devoluciones": "211"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "18,189",
+    "Inventario": "15,241",
+    "Devoluciones": "421"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Auckland",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "42,760",
+    "Inventario": "158,688",
+    "Devoluciones": "1,278"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "32,640",
+    "Inventario": "188,437",
+    "Devoluciones": "1,237"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "24,733",
+    "Inventario": "45,172",
+    "Devoluciones": "614"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "4,231",
+    "Inventario": "346,780",
+    "Devoluciones": "350"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "1,093",
+    "Inventario": "8,711",
+    "Devoluciones": "21"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "44,121",
+    "Inventario": "155,948",
+    "Devoluciones": "1,252"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "12,211",
+    "Inventario": "80,393",
+    "Devoluciones": "336"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "15,032",
+    "Inventario": "42,469",
+    "Devoluciones": "409"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Canberra",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "21,486",
+    "Inventario": "58,824",
+    "Devoluciones": "1,096"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "11,975",
+    "Inventario": "50,645",
+    "Devoluciones": "523"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "373,908",
+    "Inventario": "1,139,026",
+    "Devoluciones": "10,960"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "186,631",
+    "Inventario": "559,904",
+    "Devoluciones": "6,447"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "24,940",
+    "Inventario": "134,557",
+    "Devoluciones": "1,112"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "22,060",
+    "Inventario": "82,215",
+    "Devoluciones": "861"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "6,110",
+    "Inventario": "26,124",
+    "Devoluciones": "164"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "18,761",
+    "Inventario": "27,749",
+    "Devoluciones": "468"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Jakarta",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "4,659",
+    "Inventario": "19,899",
+    "Devoluciones": "255"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "25,796",
+    "Inventario": "143,063",
+    "Devoluciones": "1,110"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "106,657",
+    "Inventario": "310,404",
+    "Devoluciones": "4,092"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "55,667",
+    "Inventario": "161,328",
+    "Devoluciones": "2,288"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "4,130",
+    "Inventario": "24,936",
+    "Devoluciones": "213"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "83,212",
+    "Inventario": "382,786",
+    "Devoluciones": "2,568"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "450",
+    "Inventario": "8,136",
+    "Devoluciones": "42"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "36,110",
+    "Inventario": "91,052",
+    "Devoluciones": "995"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Kuala Lumpur",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "61,108",
+    "Inventario": "245,543",
+    "Devoluciones": "1,977"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "31,503",
+    "Inventario": "110,179",
+    "Devoluciones": "1,449"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "128,309",
+    "Inventario": "264,891",
+    "Devoluciones": "5,285"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "144,151",
+    "Inventario": "464,158",
+    "Devoluciones": "4,414"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "15,759",
+    "Inventario": "65,223",
+    "Devoluciones": "620"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "171,735",
+    "Inventario": "708,799",
+    "Devoluciones": "5,544"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "2,281",
+    "Inventario": "15,955",
+    "Devoluciones": "144"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "131,794",
+    "Inventario": "265,543",
+    "Devoluciones": "4,241"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Manila",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "229,372",
+    "Inventario": "818,328",
+    "Devoluciones": "7,265"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Singapore",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "1,520",
+    "Inventario": "374",
+    "Devoluciones": "120"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Singapore",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "28,761",
+    "Inventario": "89,599",
+    "Devoluciones": "690"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Singapore",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "30,619",
+    "Inventario": "103,585",
+    "Devoluciones": "1,148"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Singapore",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "2,177",
+    "Inventario": "5,897",
+    "Devoluciones": "35"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Singapore",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "36,612",
+    "Inventario": "139,288",
+    "Devoluciones": "843"
+  },
+  {
+    "Region": "Pacific",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Singapore",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "40,056",
+    "Inventario": "117,217",
+    "Devoluciones": "1,413"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "15,312",
+    "Inventario": "35,805",
+    "Devoluciones": "1,229"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "20,835",
+    "Inventario": "43,155",
+    "Devoluciones": "1,136"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "37,187",
+    "Inventario": "62,770",
+    "Devoluciones": "1,424"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "22,712",
+    "Inventario": "62,856",
+    "Devoluciones": "1,292"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "33,723",
+    "Inventario": "88,411",
+    "Devoluciones": "2,033"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "4,729",
+    "Inventario": "11,597",
+    "Devoluciones": "333"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Bogota",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "71,736",
+    "Inventario": "117,761",
+    "Devoluciones": "2,646"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "17,027",
+    "Inventario": "39,291",
+    "Devoluciones": "1,073"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "16,019",
+    "Inventario": "15,889",
+    "Devoluciones": "498"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "14,437",
+    "Inventario": "29,932",
+    "Devoluciones": "354"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "18,765",
+    "Inventario": "75,358",
+    "Devoluciones": "604"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "11,759",
+    "Inventario": "23,822",
+    "Devoluciones": "939"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "3,545",
+    "Inventario": "6,103",
+    "Devoluciones": "229"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "15,470",
+    "Inventario": "19,479",
+    "Devoluciones": "382"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Buenos Aires",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "21,261",
+    "Inventario": "31,081",
+    "Devoluciones": "964"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "63,697",
+    "Inventario": "307,509",
+    "Devoluciones": "2,731"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "245,757",
+    "Inventario": "445,579",
+    "Devoluciones": "7,918"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "135,371",
+    "Inventario": "275,526",
+    "Devoluciones": "4,710"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 29,
+    "Ventas": "22,973",
+    "Inventario": "118,535",
+    "Devoluciones": "1,096"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "132,853",
+    "Inventario": "457,658",
+    "Devoluciones": "4,609"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "1,716",
+    "Inventario": "12,360",
+    "Devoluciones": "79"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "42,654",
+    "Inventario": "68,096",
+    "Devoluciones": "1,525"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Caracas",
+    "Cantidad_Tiendas": 26,
+    "Ventas": "144,302",
+    "Inventario": "454,123",
+    "Devoluciones": "5,274"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "36,309",
+    "Inventario": "100,618",
+    "Devoluciones": "2,925"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "124,203",
+    "Inventario": "184,499",
+    "Devoluciones": "4,046"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "131,079",
+    "Inventario": "173,417",
+    "Devoluciones": "3,698"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "27,728",
+    "Inventario": "81,525",
+    "Devoluciones": "945"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "125,763",
+    "Inventario": "338,758",
+    "Devoluciones": "6,501"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "8,095",
+    "Inventario": "25,212",
+    "Devoluciones": "254"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "48,260",
+    "Inventario": "138,402",
+    "Devoluciones": "2,547"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "La Paz",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "29,069",
+    "Inventario": "73,048",
+    "Devoluciones": "1,648"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "53,703",
+    "Inventario": "150,601",
+    "Devoluciones": "3,226"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "52,968",
+    "Inventario": "76,200",
+    "Devoluciones": "1,811"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "45,566",
+    "Inventario": "125,584",
+    "Devoluciones": "2,708"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "27,742",
+    "Inventario": "90,767",
+    "Devoluciones": "1,913"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 28,
+    "Ventas": "80,525",
+    "Inventario": "236,273",
+    "Devoluciones": "3,419"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "8,365",
+    "Inventario": "39,256",
+    "Devoluciones": "361"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "28,343",
+    "Inventario": "66,442",
+    "Devoluciones": "1,374"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Montevideo",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "21,434",
+    "Inventario": "63,913",
+    "Devoluciones": "1,213"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "14,907",
+    "Inventario": "39,222",
+    "Devoluciones": "939"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "23,117",
+    "Inventario": "44,160",
+    "Devoluciones": "1,026"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "12,343",
+    "Inventario": "35,668",
+    "Devoluciones": "631"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "23,260",
+    "Inventario": "46,106",
+    "Devoluciones": "1,224"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "4,184",
+    "Inventario": "19,113",
+    "Devoluciones": "112"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "5,709",
+    "Inventario": "6,972",
+    "Devoluciones": "506"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Santiago",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "21,436",
+    "Inventario": "45,398",
+    "Devoluciones": "759"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "44,720",
+    "Inventario": "173,578",
+    "Devoluciones": "2,471"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "85,168",
+    "Inventario": "107,413",
+    "Devoluciones": "3,120"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "38,912",
+    "Inventario": "89,758",
+    "Devoluciones": "1,740"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "33,662",
+    "Inventario": "121,645",
+    "Devoluciones": "1,682"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "54,768",
+    "Inventario": "217,967",
+    "Devoluciones": "2,675"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "2,427",
+    "Inventario": "10,132",
+    "Devoluciones": "147"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "38,791",
+    "Inventario": "117,081",
+    "Devoluciones": "1,438"
+  },
+  {
+    "Region": "South America",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Sao Paulo",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "68,387",
+    "Inventario": "144,670",
+    "Devoluciones": "2,714"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "82,483",
+    "Inventario": "305,061",
+    "Devoluciones": "3,735"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 26,
+    "Ventas": "408,978",
+    "Inventario": "831,672",
+    "Devoluciones": "17,907"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 28,
+    "Ventas": "261,607",
+    "Inventario": "824,485",
+    "Devoluciones": "8,915"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "601",
+    "Inventario": "17,121",
+    "Devoluciones": "35"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "329,235",
+    "Inventario": "1,049,530",
+    "Devoluciones": "10,654"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "17,347",
+    "Inventario": "74,605",
+    "Devoluciones": "684"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "172,021",
+    "Inventario": "474,524",
+    "Devoluciones": "5,399"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Chicago",
+    "Cantidad_Tiendas": 37,
+    "Ventas": "293,313",
+    "Inventario": "754,157",
+    "Devoluciones": "10,194"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "85,932",
+    "Inventario": "347,252",
+    "Devoluciones": "3,283"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "177,010",
+    "Inventario": "401,199",
+    "Devoluciones": "6,336"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "147,670",
+    "Inventario": "348,869",
+    "Devoluciones": "4,962"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "737",
+    "Inventario": "20,838",
+    "Devoluciones": "38"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "98,866",
+    "Inventario": "330,743",
+    "Devoluciones": "3,457"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "16,307",
+    "Inventario": "98,221",
+    "Devoluciones": "601"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "62,661",
+    "Inventario": "231,285",
+    "Devoluciones": "2,346"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Los Angeles",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "148,129",
+    "Inventario": "452,383",
+    "Devoluciones": "4,289"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "111,940",
+    "Inventario": "615,489",
+    "Devoluciones": "4,475"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "263,712",
+    "Inventario": "564,741",
+    "Devoluciones": "9,991"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "235,842",
+    "Inventario": "623,645",
+    "Devoluciones": "7,344"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "3,551",
+    "Inventario": "32,907",
+    "Devoluciones": "161"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "131,813",
+    "Inventario": "487,233",
+    "Devoluciones": "4,833"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 29,
+    "Ventas": "18,151",
+    "Inventario": "116,192",
+    "Devoluciones": "1,009"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 7,
+    "Ventas": "110,760",
+    "Inventario": "287,412",
+    "Devoluciones": "3,440"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Minneapolis",
+    "Cantidad_Tiendas": 27,
+    "Ventas": "224,168",
+    "Inventario": "760,977",
+    "Devoluciones": "5,820"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Boot",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "97,151",
+    "Inventario": "495,479",
+    "Devoluciones": "3,983"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 20,
+    "Ventas": "456,985",
+    "Inventario": "890,096",
+    "Devoluciones": "13,453"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "191,755",
+    "Inventario": "658,134",
+    "Devoluciones": "5,399"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "554",
+    "Inventario": "5,060",
+    "Devoluciones": "23"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 24,
+    "Ventas": "252,758",
+    "Inventario": "1,059,333",
+    "Devoluciones": "8,503"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "22,190",
+    "Inventario": "141,140",
+    "Devoluciones": "847"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "178,842",
+    "Inventario": "438,035",
+    "Devoluciones": "4,236"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "New York",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "288,972",
+    "Inventario": "1,129,697",
+    "Devoluciones": "10,257"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "70,790",
+    "Inventario": "226,678",
+    "Devoluciones": "3,039"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 6,
+    "Ventas": "65,842",
+    "Inventario": "112,538",
+    "Devoluciones": "3,395"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "132,397",
+    "Inventario": "274,310",
+    "Devoluciones": "3,153"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "6,596",
+    "Inventario": "18,768",
+    "Devoluciones": "181"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "155,255",
+    "Inventario": "553,502",
+    "Devoluciones": "5,277"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 29,
+    "Ventas": "30,408",
+    "Inventario": "108,266",
+    "Devoluciones": "1,021"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "17,252",
+    "Inventario": "28,513",
+    "Devoluciones": "790"
+  },
+  {
+    "Region": "United States",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Seattle",
+    "Cantidad_Tiendas": 21,
+    "Ventas": "133,405",
+    "Inventario": "392,307",
+    "Devoluciones": "4,037"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "1,663",
+    "Inventario": "4,657",
+    "Devoluciones": "129"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "38,492",
+    "Inventario": "90,672",
+    "Devoluciones": "767"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "12,415",
+    "Inventario": "36,074",
+    "Devoluciones": "686"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "15,908",
+    "Inventario": "69,133",
+    "Devoluciones": "594"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "1,927",
+    "Inventario": "17,683",
+    "Devoluciones": "31"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "101,922",
+    "Inventario": "327,742",
+    "Devoluciones": "4,204"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 26,
+    "Ventas": "502,636",
+    "Inventario": "1,110,412",
+    "Devoluciones": "17,448"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Copenhagen",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "18,153",
+    "Inventario": "62,048",
+    "Devoluciones": "664"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 22,
+    "Ventas": "41,341",
+    "Inventario": "171,030",
+    "Devoluciones": "1,560"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "71,618",
+    "Inventario": "138,897",
+    "Devoluciones": "2,484"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "26,888",
+    "Inventario": "60,544",
+    "Devoluciones": "1,140"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "736",
+    "Inventario": "3,529",
+    "Devoluciones": "51"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 27,
+    "Ventas": "109,808",
+    "Inventario": "440,623",
+    "Devoluciones": "3,311"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "15,951",
+    "Inventario": "119,953",
+    "Devoluciones": "592"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "69,470",
+    "Inventario": "226,247",
+    "Devoluciones": "2,114"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Geneva",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "111,396",
+    "Inventario": "339,166",
+    "Devoluciones": "3,036"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "65,610",
+    "Inventario": "301,779",
+    "Devoluciones": "2,829"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "175,694",
+    "Inventario": "595,118",
+    "Devoluciones": "9,845"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "161,679",
+    "Inventario": "468,267",
+    "Devoluciones": "5,373"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "977",
+    "Inventario": "4,618",
+    "Devoluciones": "62"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "243,342",
+    "Inventario": "928,112",
+    "Devoluciones": "7,940"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 11,
+    "Ventas": "38,961",
+    "Inventario": "230,819",
+    "Devoluciones": "1,316"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 9,
+    "Ventas": "141,287",
+    "Inventario": "424,473",
+    "Devoluciones": "3,861"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Heidelberg",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "140,189",
+    "Inventario": "403,156",
+    "Devoluciones": "4,812"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "76,349",
+    "Inventario": "341,911",
+    "Devoluciones": "3,290"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 18,
+    "Ventas": "311,341",
+    "Inventario": "502,959",
+    "Devoluciones": "12,247"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 8,
+    "Ventas": "108,906",
+    "Inventario": "328,209",
+    "Devoluciones": "2,665"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "1,650",
+    "Inventario": "24,253",
+    "Devoluciones": "64"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 12,
+    "Ventas": "170,694",
+    "Inventario": "865,325",
+    "Devoluciones": "5,925"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "19,686",
+    "Inventario": "118,262",
+    "Devoluciones": "824"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "41,939",
+    "Inventario": "112,366",
+    "Devoluciones": "1,266"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Lisbon",
+    "Cantidad_Tiendas": 17,
+    "Ventas": "167,780",
+    "Inventario": "538,624",
+    "Devoluciones": "4,150"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 31,
+    "Ventas": "54,449",
+    "Inventario": "289,527",
+    "Devoluciones": "2,321"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "151,402",
+    "Inventario": "401,374",
+    "Devoluciones": "7,159"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "151,458",
+    "Inventario": "446,963",
+    "Devoluciones": "4,870"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "5,217",
+    "Inventario": "11,111",
+    "Devoluciones": "24"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "172,002",
+    "Inventario": "625,925",
+    "Devoluciones": "5,620"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 10,
+    "Ventas": "9,165",
+    "Inventario": "42,239",
+    "Devoluciones": "354"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "68,962",
+    "Inventario": "162,447",
+    "Devoluciones": "1,978"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "London",
+    "Cantidad_Tiendas": 25,
+    "Ventas": "149,354",
+    "Inventario": "527,226",
+    "Devoluciones": "5,084"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Madrid",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "1,179",
+    "Inventario": "1,027",
+    "Devoluciones": "93"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Madrid",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "71,014",
+    "Inventario": "59,011",
+    "Devoluciones": "3,784"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Madrid",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "54,791",
+    "Inventario": "181,739",
+    "Devoluciones": "1,468"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Madrid",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "12,127",
+    "Inventario": "10,234",
+    "Devoluciones": "500"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Madrid",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "50,146",
+    "Inventario": "113,870",
+    "Devoluciones": "1,216"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Madrid",
+    "Cantidad_Tiendas": 1,
+    "Ventas": "11,385",
+    "Inventario": "59,192",
+    "Devoluciones": "273"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 15,
+    "Ventas": "19,196",
+    "Inventario": "41,506",
+    "Devoluciones": "1,006"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "89,416",
+    "Inventario": "156,288",
+    "Devoluciones": "3,863"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "203,532",
+    "Inventario": "421,109",
+    "Devoluciones": "5,722"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "1,520",
+    "Inventario": "23,816",
+    "Devoluciones": "60"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "90,975",
+    "Inventario": "251,927",
+    "Devoluciones": "2,372"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 4,
+    "Ventas": "3,449",
+    "Inventario": "28,588",
+    "Devoluciones": "186"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 5,
+    "Ventas": "91,243",
+    "Inventario": "184,365",
+    "Devoluciones": "2,388"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Paris",
+    "Cantidad_Tiendas": 19,
+    "Ventas": "122,546",
+    "Inventario": "362,247",
+    "Devoluciones": "3,727"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Boot",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 23,
+    "Ventas": "36,244",
+    "Inventario": "209,271",
+    "Devoluciones": "1,455"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Casual",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "37,271",
+    "Inventario": "91,670",
+    "Devoluciones": "1,761"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Men's Dress",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "28,249",
+    "Inventario": "69,058",
+    "Devoluciones": "651"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sandal",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 3,
+    "Ventas": "1,249",
+    "Inventario": "4,611",
+    "Devoluciones": "48"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Slipper",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 13,
+    "Ventas": "42,442",
+    "Inventario": "132,283",
+    "Devoluciones": "1,829"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Sport Shoe",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 14,
+    "Ventas": "9,969",
+    "Inventario": "74,848",
+    "Devoluciones": "549"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Casual",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 2,
+    "Ventas": "19,964",
+    "Inventario": "62,256",
+    "Devoluciones": "954"
+  },
+  {
+    "Region": "Western Europe",
+    "Tipo_Producto": "Women's Dress",
+    "Encargado": "Rome",
+    "Cantidad_Tiendas": 16,
+    "Ventas": "106,676",
+    "Inventario": "389,861",
+    "Devoluciones": "3,160"
+  }
+]

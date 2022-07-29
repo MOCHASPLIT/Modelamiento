@@ -1,0 +1,2294 @@
+﻿ 
+Region
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Africa
+Tipo_Producto
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Addis Ababa
+Women's Dress Addis Ababa
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Dress Algiers
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Cairo
+Women's Dress Cairo
+Boot
+Sandal
+Slipper
+Sport Shoe
+Women's Dress Johannesburg
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Khartoum
+Women's Dress Khartoum
+Boot
+Men's Dress
+Sandal
+Slipper
+Encargado
+Cantidad_Tiendas Ventas
+12 29,761
+4 67,242
+7 76,793
+10 62,819
+14 68,641
+4 1,690
+Inventario
+191,821
+118,036
+136,273
+204,284
+279,795
+16,634
+98,641
+311,017
+73,737
+100,982
+428,575
+84,447
+248,198
+9,372
+266,805
+18,965
+1,063,251
+45,962
+50,430
+54,117
+20,815
+940,851
+51,145
+33,011
+63,003
+130,025
+29,368
+120,127
+105,370
+16,230
+51,132
+81,825
+143,015
+27,041
+30,727
+132,679
+70,736
+95,663
+104,438
+183,937
+27,998
+21,363
+87,149
+51,572
+149,864
+67,247
+19,900
+97,060
+3,247
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+2 51,541
+12 108,942
+21 21,297
+4 63,206
+13 123,743
+25 29,198
+17 64,891
+9 2,617
+12 90,648
+20 4,846
+25 360,209
+5 4,051
+9 10,532
+9 13,732
+3 2,259
+14 328,474
+3 14,095
+14 8,365
+13 17,337
+12 39,452
+8 5,172
+4 42,682
+24 19,282
+1 9,244
+3 18,053
+18 26,427
+11 43,452
+7 2,521
+1 19,582
+6 48,031
+16 13,921
+5 57,691
+10 16,662
+11 52,807
+10 4,888
+1 17,919
+3 32,928
+8 6,081
+3 62,893
+2 29,582
+9 11,145
+5 19,146
+2 801
+Algiers
+Algiers
+Algiers
+Algiers
+Algiers
+Algiers
+Cairo
+Cairo
+Cairo
+Cairo
+Cairo
+Cairo
+Johannesburg
+Johannesburg
+Johannesburg
+Johannesburg
+Khartoum
+Khartoum
+Khartoum
+Khartoum
+Khartoum
+Khartoum
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Kinshasa
+Sport Shoe
+Women's Casual Kinshasa
+Women's Dress Kinshasa
+Boot
+Luanda
+Luanda
+Luanda
+Luanda
+Luanda
+Luanda
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Dress Luanda
+Boot Nairobi
+1 8,467
+25 16,282
+47,387
+66,017
+
+
+ 
+Africa
+Africa
+Africa
+Africa
+Africa
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Asia
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Dress Nairobi
+Boot
+Men's Dress
+Sandal
+Slipper
+Women's Casual Bangkok
+Nairobi
+Nairobi
+Nairobi
+Nairobi
+1 8,587
+19 16,289
+12 34,955
+10 2,202
+3 28,515
+1 1,996
+1 3,033
+1 3,230
+1 3,019
+1 5,389
+17 60,712
+1 11,754
+7 116,333
+3 4,978
+21 149,013
+1 937
+20,877
+47,406
+87,438
+11,328
+62,740
+9,576
+20,831
+15,087
+16,075
+16,251
+160,589
+2,176
+Bangkok
+Bangkok
+Bangkok
+Bangkok
+Boot
+Seoul
+Seoul
+Seoul
+Seoul
+Seoul
+Seoul
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+251,803
+21,483
+469,007
+455
+Asia
+Asia
+Asia
+Women's Casual Seoul
+Women's Dress Seoul
+2 20,448
+7 78,234
+1 1,155
+8 17,720
+1 12,775
+7 2,886
+36,576
+140,628
+15,602
+63,280
+39,663
+15,838
+48,061
+38,059
+54,677
+240,132
+187,155
+355,170
+18,382
+500,053
+178,128
+34,808
+483,637
+28,162
+29,249
+1,727
+89,576
+15,007
+46,064
+84,378
+149,118
+20,811
+84,690
+6,763
+302,074
+164,113
+149,239
+165,711
+882,080
+671,837
+1,847,559
+56,325
+Sport Shoe
+Boot
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Tokyo
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Canada
+Calgary
+Calgary
+Calgary
+Calgary
+Calgary
+2 5,676
+9 9,745
+Women's Dress Calgary
+2 12,601
+25 40,213
+3 53,929
+11 112,009
+7 3,002
+24 135,305
+31 29,435
+2 24,497
+12 132,638
+5 7,892
+Boot
+Montreal
+Montreal
+Montreal
+Montreal
+Montreal
+Montreal
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Montreal
+Women's Dress Montreal
+Boot
+Men's Casual
+Sandal
+Slipper
+Sport Shoe
+Ottawa
+Ottawa
+Ottawa
+Ottawa
+Ottawa
+1 19,210
+2 2,600
+10 30,905
+6 2,598
+Women's Casual Ottawa
+Women's Dress Ottawa
+1 18,712
+4 33,824
+16 33,291
+2 15,403
+2 37,519
+2 1,190
+14 80,352
+29 34,585
+4 63,492
+7 53,940
+31 286,497
+25 353,361
+28 757,798
+15 5,120
+Boot
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Toronto
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Toronto
+Women's Dress Toronto
+Boot
+Vancouver
+Men's Casual
+Men's Dress
+Sandal
+Vancouver
+Vancouver
+Vancouver
+
+
+ 
+Canada
+Canada
+Canada
+Canada
+Slipper
+Sport Shoe
+Women's Casual Vancouver
+Women's Dress Vancouver
+Vancouver
+Vancouver
+27 700,513
+26 64,026
+20 304,106
+21 756,347
+33 102,372
+28 576,112
+23 270,863
+15 200,156
+37 476,638
+23 18,177
+18 215,069
+41 375,817
+17 34,660
+3 69,276
+2,520,085
+370,388
+665,323
+2,503,387
+393,376
+1,159,556
+618,703
+624,163
+1,555,357
+86,162
+Central America/Caribbean Boot
+Kingston
+Kingston
+Kingston
+Kingston
+Kingston
+Kingston
+Central America/Caribbean Men's Casual
+Central America/Caribbean Men's Dress
+Central America/Caribbean Sandal
+Central America/Caribbean Slipper
+Central America/Caribbean Sport Shoe
+Central America/Caribbean Women's Casual Kingston
+Central America/Caribbean Women's Dress Kingston
+Central America/Caribbean Boot
+Central America/Caribbean Men's Casual
+Central America/Caribbean Men's Dress
+Central America/Caribbean Sandal
+Central America/Caribbean Slipper
+Central America/Caribbean Sport Shoe
+275,321
+1,147,300
+162,033
+79,666
+Managua
+Managua
+Managua
+Managua
+Managua
+Managua
+4 35,393
+72,044
+37 65,478
+25 92,539
+14 5,655
+261,456
+289,520
+17,155
+Central America/Caribbean Women's Casual Managua
+Central America/Caribbean Women's Dress Managua
+3 48,567
+118,849
+163,951
+79,994
+70,123
+78,950
+175,201
+340,122
+23,183
+10 63,238
+21 20,819
+3 66,216
+Central America/Caribbean Boot
+Mexico City
+Mexico City
+Mexico City
+Mexico City
+Mexico City
+Mexico City
+Central America/Caribbean Men's Casual
+Central America/Caribbean Men's Dress
+Central America/Caribbean Sandal
+Central America/Caribbean Slipper
+Central America/Caribbean Sport Shoe
+3 30,157
+33 52,233
+31 96,113
+3 2,196
+Central America/Caribbean Women's Casual Mexico City
+Central America/Caribbean Women's Dress Mexico City
+2 31,301
+7 69,553
+31 32,892
+2 44,909
+8 68,482
+27 60,515
+7 217,891
+4 936
+91,171
+257,437
+135,309
+182,986
+137,355
+210,250
+707,919
+4,546
+Central America/Caribbean Boot
+San Juan
+San Juan
+San Juan
+San Juan
+San Juan
+San Juan
+Central America/Caribbean Men's Casual
+Central America/Caribbean Men's Dress
+Central America/Caribbean Sandal
+Central America/Caribbean Slipper
+Central America/Caribbean Sport Shoe
+Central America/Caribbean Women's Casual San Juan
+Central America/Caribbean Women's Dress San Juan
+10 104,420
+16 109,110
+22 74,102
+6 66,936
+3 37,499
+5 1,814
+17 111,816
+23 16,460
+3 49,880
+6 52,022
+23 67,476
+3 55,094
+11 113,119
+11 127,033
+23 21,464
+6 104,119
+10 72,671
+11 86,215
+318,207
+336,513
+317,515
+87,655
+147,214
+4,894
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Boot
+Budapest
+Budapest
+Budapest
+Budapest
+Budapest
+Budapest
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Budapest
+Women's Dress Budapest
+Boot
+Men's Casual
+Men's Dress
+Slipper
+453,821
+79,416
+137,093
+144,360
+329,604
+156,554
+302,236
+520,271
+110,822
+211,220
+196,973
+341,326
+Moscow
+Moscow
+Moscow
+Moscow
+Moscow
+Sport Shoe
+Women's Casual Moscow
+Women's Dress Moscow
+Boot
+Prague
+
+
+ 
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Middle East
+Pacific
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Prague
+Women's Dress Prague
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Warsaw
+Women's Dress Warsaw
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Al-Khobar
+Women's Dress Al-Khobar
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Dubai
+Women's Dress Dubai
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Tel Aviv
+Women's Dress Tel Aviv
+Boot
+Men's Dress
+Sandal
+Slipper
+Prague
+Prague
+Prague
+Prague
+Prague
+12 150,273
+9 102,448
+2 712
+29 128,971
+18 23,708
+1 15,897
+14 128,497
+26 78,992
+15 304,093
+10 82,695
+3 1,190
+16 141,878
+19 29,570
+3 39,360
+336,151
+231,514
+3,384
+585,026
+117,976
+33,800
+425,237
+363,358
+729,044
+205,338
+960
+712,365
+139,313
+102,641
+425,390
+44,658
+616,745
+711,246
+13,343
+201,779
+1,836
+447,377
+611,686
+403,259
+868,115
+746,970
+59,985
+Warsaw
+Warsaw
+Warsaw
+Warsaw
+Warsaw
+Warsaw
+19 108,936
+10 15,062
+24 340,201
+22 261,445
+2 1,380
+Al-Khobar
+Al-Khobar
+Al-Khobar
+Al-Khobar
+Al-Khobar
+Al-Khobar
+26 66,796
+2 449
+13 226,514
+11 241,820
+15 90,972
+29 419,336
+25 324,312
+24 17,492
+17 387,680
+5 1,487
+Dubai
+Dubai
+Dubai
+Dubai
+Dubai
+Dubai
+1,238,698
+11,432
+416,012
+1,292,400
+222,165
+19 233,374
+19 435,891
+20 65,248
+Tel Aviv
+Tel Aviv
+Tel Aviv
+Tel Aviv
+Tel Aviv
+Tel Aviv
+11 1,298,717 2,881,005
+24 253,814
+17 16,314
+21 208,004
+4 2,071
+19 288,904
+18 434,496
+12 20,141
+1 4,892
+1 325
+11 33,000
+5 5,117
+1 18,189
+6 42,760
+21 32,640
+1 24,733
+1 4,231
+631,479
+71,094
+639,427
+15,121
+790,386
+1,272,531
+97,919
+538
+23,897
+136,625
+35,246
+15,241
+158,688
+188,437
+45,172
+346,780
+8,711
+Auckland
+Auckland
+Auckland
+Auckland
+Auckland
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Sport Shoe
+Women's Casual Auckland
+Women's Dress Auckland
+Boot
+Canberra
+Canberra
+Canberra
+Canberra
+Canberra
+Canberra
+Men's Casual
+Men's Dress
+Sandal
+Pacific
+Pacific
+1 1,093
+Pacific
+Pacific
+Slipper
+Sport Shoe
+10 44,121
+10 12,211
+155,948
+80,393
+
+
+ 
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Women's Casual Canberra
+Women's Dress Canberra
+1 15,032
+5 21,486
+6 11,975
+12 373,908
+22 186,631
+31 24,940
+7 22,060
+4 6,110
+1 18,761
+1 4,659
+15 25,796
+6 106,657
+7 55,667
+7 4,130
+42,469
+58,824
+50,645
+1,139,026
+559,904
+134,557
+82,215
+26,124
+27,749
+19,899
+143,063
+310,404
+161,328
+24,936
+382,786
+8,136
+Boot
+Jakarta
+Jakarta
+Jakarta
+Jakarta
+Jakarta
+Jakarta
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Jakarta
+Women's Dress Jakarta
+Boot
+Kuala Lumpur
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Kuala Lumpur
+Kuala Lumpur
+Kuala Lumpur
+Kuala Lumpur
+Kuala Lumpur
+17 83,212
+2 450
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Pacific
+Women's Casual Kuala Lumpur
+Women's Dress Kuala Lumpur
+2 36,110
+8 61,108
+21 31,503
+7 128,309
+14 144,151
+18 15,759
+14 171,735
+8 2,281
+91,052
+245,543
+110,179
+264,891
+464,158
+65,223
+708,799
+15,955
+265,543
+818,328
+374
+Boot
+Manila
+Manila
+Manila
+Manila
+Manila
+Manila
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Pacific
+Pacific
+Pacific
+Women's Casual Manila
+Women's Dress Manila
+9 131,794
+12 229,372
+2 1,520
+Boot
+Singapore
+Pacific
+Pacific
+Pacific
+Pacific
+Men's Casual
+Men's Dress
+Sandal
+Singapore
+Singapore
+Singapore
+Singapore
+1 28,761
+3 30,619
+1 2,177
+89,599
+103,585
+5,897
+Slipper
+6 36,612
+5 40,056
+19 15,312
+2 20,835
+4 37,187
+16 22,712
+15 33,723
+19 4,729
+14 71,736
+16 17,027
+1 16,019
+1 14,437
+21 18,765
+8 11,759
+14 3,545
+1 15,470
+4 21,261
+13 63,697
+14 245,757
+15 135,371
+29 22,973
+19 132,853
+139,288
+117,217
+35,805
+43,155
+62,770
+62,856
+88,411
+11,597
+117,761
+39,291
+15,889
+29,932
+75,358
+23,822
+6,103
+19,479
+31,081
+307,509
+445,579
+275,526
+118,535
+457,658
+Pacific
+Women's Dress Singapore
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Dress Bogota
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Buenos Aires
+Women's Dress Buenos Aires
+Boot
+Men's Casual
+Men's Dress
+Sandal
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+Bogota
+Bogota
+Bogota
+Bogota
+Bogota
+Bogota
+Buenos Aires
+Buenos Aires
+Buenos Aires
+Buenos Aires
+Buenos Aires
+Buenos Aires
+Caracas
+Caracas
+Caracas
+Caracas
+Caracas
+Slipper
+
+
+ 
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+South America
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+Sport Shoe
+Women's Casual Caracas
+Women's Dress Caracas
+Caracas
+4 1,716
+3 42,654
+26 144,302
+21 36,309
+6 124,203
+11 131,079
+31 27,728
+18 125,763
+15 8,095
+6 48,260
+8 29,069
+15 53,703
+3 52,968
+8 45,566
+12 27,742
+28 80,525
+22 8,365
+3 28,343
+5 21,434
+14 14,907
+3 23,117
+22 12,343
+9 23,260
+6 4,184
+12,360
+68,096
+454,123
+100,618
+184,499
+173,417
+81,525
+338,758
+25,212
+138,402
+73,048
+150,601
+76,200
+125,584
+90,767
+236,273
+39,256
+66,442
+63,913
+39,222
+44,160
+35,668
+46,106
+19,113
+6,972
+45,398
+173,578
+107,413
+89,758
+121,645
+217,967
+10,132
+117,081
+144,670
+305,061
+831,672
+824,485
+17,121
+Boot
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual La Paz
+Women's Dress La Paz
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Montevideo
+Women's Dress Montevideo
+Boot
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Santiago
+Women's Dress Santiago
+Montevideo
+Montevideo
+Montevideo
+Montevideo
+Montevideo
+Montevideo
+Santiago
+Santiago
+Santiago
+Santiago
+Santiago
+1 5,709
+3 21,436
+12 44,720
+5 85,168
+5 38,912
+18 33,662
+21 54,768
+7 2,427
+3 38,791
+13 68,387
+16 82,483
+26 408,978
+28 261,607
+2 601
+13 329,235
+17 17,347
+11 172,021
+37 293,313
+14 85,932
+9 177,010
+15 147,670
+2 737
+11 98,866
+19 16,307
+6 62,661
+16 148,129
+16 111,940
+16 263,712
+Boot
+Sao Paulo
+Sao Paulo
+Sao Paulo
+Sao Paulo
+Sao Paulo
+Sao Paulo
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Sao Paulo
+Women's Dress Sao Paulo
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Chicago
+Women's Dress Chicago
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Chicago
+Chicago
+Chicago
+Chicago
+Chicago
+Chicago
+1,049,530
+74,605
+474,524
+754,157
+347,252
+401,199
+348,869
+20,838
+330,743
+98,221
+231,285
+452,383
+615,489
+564,741
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Los Angeles
+Women's Casual Los Angeles
+Women's Dress Los Angeles
+Boot
+Minneapolis
+Minneapolis
+Men's Casual
+
+
+ 
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Minneapolis
+Women's Dress Minneapolis
+Minneapolis
+Minneapolis
+Minneapolis
+Minneapolis
+22 235,842
+8 3,551
+623,645
+32,907
+16 131,813
+29 18,151
+7 110,760
+27 224,168
+18 97,151
+20 456,985
+18 191,755
+1 554
+24 252,758
+23 22,190
+10 178,842
+17 288,972
+15 70,790
+6 65,842
+487,233
+116,192
+287,412
+760,977
+495,479
+890,096
+658,134
+5,060
+1,059,333
+141,140
+438,035
+1,129,697
+226,678
+112,538
+274,310
+18,768
+Boot
+New York
+New York
+New York
+New York
+New York
+New York
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual New York
+Women's Dress New York
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Seattle
+Women's Dress Seattle
+Boot
+Seattle
+Seattle
+Seattle
+Seattle
+Seattle
+Seattle
+United States
+United States
+United States
+United States
+United States
+United States
+10 132,397
+10 6,596
+10 155,255
+29 30,408
+2 17,252
+553,502
+108,266
+28,513
+392,307
+4,657
+21 133,405
+2 1,663
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Copenhagen
+Men's Casual
+Men's Dress
+Slipper
+Sport Shoe
+Sport Shoe
+Women's Casual Copenhagen
+Women's Dress Copenhagen
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Geneva
+Women's Dress Geneva
+Boot
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual Heidelberg
+Women's Dress Heidelberg
+Boot
+Copenhagen
+Copenhagen
+Copenhagen
+Copenhagen
+Copenhagen
+1 38,492
+2 12,415
+4 15,908
+1 1,927
+13 101,922
+26 502,636
+3 18,153
+22 41,341
+4 71,618
+90,672
+36,074
+69,133
+17,683
+327,742
+1,110,412
+62,048
+171,030
+138,897
+60,544
+Geneva
+Geneva
+Geneva
+Geneva
+Geneva
+Geneva
+3 26,888
+3 736
+3,529
+27 109,808
+17 15,951
+5 69,470
+14 111,396
+14 65,610
+12 175,694
+16 161,679
+3 977
+17 243,342
+11 38,961
+9 141,287
+23 140,189
+18 76,349
+18 311,341
+8 108,906
+4 1,650
+440,623
+119,953
+226,247
+339,166
+301,779
+595,118
+468,267
+4,618
+928,112
+230,819
+424,473
+403,156
+341,911
+502,959
+328,209
+24,253
+Heidelberg
+Heidelberg
+Heidelberg
+Heidelberg
+Heidelberg
+Heidelberg
+Lisbon
+Lisbon
+Lisbon
+Lisbon
+Lisbon
+Lisbon
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+12 170,694
+19 19,686
+865,325
+118,262
+
+
+ 
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Western Europe
+Women's Casual Lisbon
+Women's Dress Lisbon
+3 41,939
+17 167,780
+31 54,449
+13 151,402
+13 151,458
+2 5,217
+14 172,002
+10 9,165
+5 68,962
+25 149,354
+1 1,179
+4 71,014
+4 54,791
+4 12,127
+3 50,146
+1 11,385
+15 19,196
+5 89,416
+16 203,532
+3 1,520
+112,366
+538,624
+289,527
+401,374
+446,963
+11,111
+625,925
+42,239
+162,447
+527,226
+1,027
+59,011
+181,739
+10,234
+113,870
+59,192
+41,506
+156,288
+421,109
+23,816
+251,927
+28,588
+184,365
+362,247
+209,271
+91,670
+69,058
+4,611
+Boot
+London
+London
+London
+London
+London
+London
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+Women's Casual London
+Women's Dress London
+Boot
+Madrid
+Madrid
+Madrid
+Madrid
+Men's Casual
+Men's Dress
+Slipper
+Women's Casual Madrid
+Women's Dress Madrid
+Boot
+Paris
+Paris
+Paris
+Paris
+Paris
+Paris
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+19 90,975
+4 3,449
+Women's Casual Paris
+Women's Dress Paris
+5 91,243
+19 122,546
+23 36,244
+2 37,271
+2 28,249
+3 1,249
+13 42,442
+14 9,969
+2 19,964
+16 106,676
+Boot
+Rome
+Rome
+Rome
+Rome
+Rome
+Rome
+Men's Casual
+Men's Dress
+Sandal
+Slipper
+Sport Shoe
+132,283
+74,848
+62,256
+389,861
+Women's Casual Rome
+Women's Dress Rome
+
+
+ 
+Devoluciones
+769
+2,284
+2,433
+1,861
+1,771
+79
+940
+3,233
+710
+2,221
+3,621
+1,530
+1,823
+168
+2,690
+229
+9,424
+97
+598
+1,216
+44
+10,124
+745
+483
+809
+1,565
+139
+966
+700
+478
+1,177
+1,281
+1,573
+84
+384
+1,374
+553
+1,699
+611
+1,440
+162
+400
+717
+325
+1,701
+705
+657
+701
+29
+210
+844
+
+
+ 
+363
+1,175
+1,320
+174
+678
+80
+52
+120
+127
+185
+1,296
+833
+2,443
+105
+2,941
+10
+790
+1,891
+22
+472
+353
+147
+253
+264
+488
+1,472
+2,241
+3,713
+122
+3,395
+1,129
+832
+2,880
+377
+578
+27
+1,397
+204
+427
+939
+994
+1,401
+806
+38
+1,908
+913
+1,700
+1,967
+9,160
+20,470
+16,833
+294
+
+
+ 
+21,247
+2,297
+8,278
+19,378
+4,454
+20,005
+7,447
+8,365
+15,713
+944
+7,361
+11,656
+1,775
+1,861
+1,456
+2,524
+2,800
+269
+1,318
+2,308
+814
+2,198
+1,012
+2,127
+4,028
+59
+973
+1,614
+1,504
+1,355
+2,756
+3,287
+6,825
+74
+4,240
+3,776
+3,341
+3,944
+930
+96
+4,070
+790
+1,528
+1,452
+3,142
+1,895
+4,004
+3,983
+859
+2,325
+2,227
+3,555
+
+
+ 
+7,455
+2,492
+48
+5,346
+623
+414
+3,434
+3,246
+9,364
+2,862
+57
+6,336
+1,053
+1,365
+4,465
+765
+13,251
+6,979
+62
+3,052
+43
+5,966
+6,167
+4,049
+17,552
+8,159
+734
+12,768
+70
+8,102
+12,999
+2,320
+57,362
+8,727
+574
+7,738
+47
+12,000
+17,394
+962
+325
+10
+1,321
+211
+421
+1,278
+1,237
+614
+350
+21
+1,252
+336
+
+
+ 
+409
+1,096
+523
+10,960
+6,447
+1,112
+861
+164
+468
+255
+1,110
+4,092
+2,288
+213
+2,568
+42
+995
+1,977
+1,449
+5,285
+4,414
+620
+5,544
+144
+4,241
+7,265
+120
+690
+1,148
+35
+843
+1,413
+1,229
+1,136
+1,424
+1,292
+2,033
+333
+2,646
+1,073
+498
+354
+604
+939
+229
+382
+964
+2,731
+7,918
+4,710
+1,096
+4,609
+
+
+ 
+79
+1,525
+5,274
+2,925
+4,046
+3,698
+945
+6,501
+254
+2,547
+1,648
+3,226
+1,811
+2,708
+1,913
+3,419
+361
+1,374
+1,213
+939
+1,026
+631
+1,224
+112
+506
+759
+2,471
+3,120
+1,740
+1,682
+2,675
+147
+1,438
+2,714
+3,735
+17,907
+8,915
+35
+10,654
+684
+5,399
+10,194
+3,283
+6,336
+4,962
+38
+3,457
+601
+2,346
+4,289
+4,475
+9,991
+
+
+ 
+7,344
+161
+4,833
+1,009
+3,440
+5,820
+3,983
+13,453
+5,399
+23
+8,503
+847
+4,236
+10,257
+3,039
+3,395
+3,153
+181
+5,277
+1,021
+790
+4,037
+129
+767
+686
+594
+31
+4,204
+17,448
+664
+1,560
+2,484
+1,140
+51
+3,311
+592
+2,114
+3,036
+2,829
+9,845
+5,373
+62
+7,940
+1,316
+3,861
+4,812
+3,290
+12,247
+2,665
+64
+5,925
+824
+
+
+ 
+1,266
+4,150
+2,321
+7,159
+4,870
+24
+5,620
+354
+1,978
+5,084
+93
+3,784
+1,468
+500
+1,216
+273
+1,006
+3,863
+5,722
+60
+2,372
+186
+2,388
+3,727
+1,455
+1,761
+651
+48
+1,829
+549
+954
+3,160
+
+
