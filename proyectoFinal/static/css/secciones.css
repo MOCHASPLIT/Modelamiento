@@ -1,0 +1,21 @@
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container #titlePage{
+    color: green;
+    font-size:large;
+    text-align: center;
+}
+
+#formS{
+    width: 100%;
+    padding: 30px;
+}
+
+.container #btnS{
+    background-color: green;
+}

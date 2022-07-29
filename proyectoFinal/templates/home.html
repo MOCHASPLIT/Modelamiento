@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block title %}
+{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/home.css')}}">
+<div class="container">
+  <strong id="titlePage">Propósito de la pagina web.</strong>
+  <p>
+    El software desarrollado se creó con la finalidad de 
+    simular un sistema de la vida real, además de aplicar 
+    todos conocimientos adquiridos en clases de acuerdo con 
+    el silabo de la asignatura de la materia.
+  </p>
+  <strong id="titlePage">Fuente de datos.</strong>
+  <p>
+    A lo largo de este parcial se trabajó con los datos de 
+    una marca de tienda internacional la cual tiene diversos 
+    tipos de productos en sus inventarios. Cabe recalcar que los 
+    datos recolectados son tanto de tipo cuantitativos y cualitativos 
+    los cuales servirán a lo largo del desarrollo y evaluación de software.
+  </p>
+  <img src="/static/image/WHome.png" alt="">
+  <a class="btn btn-success" id="btnHome"href="https://github.com/MOCHASPLIT/Modelamiento/blob/main/Fuente%20de%20datos/shoes.csv" role="button">Consultar</a>
+</div>
+{% endblock %}

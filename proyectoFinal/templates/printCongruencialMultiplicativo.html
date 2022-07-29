@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+
+{% block title %}
+<title>Método congruencial multiplicativo</title>
+{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/secciones.css')}}">
+<div class="container">
+    <strong id="titlePage">Método congruencial multiplicativo</strong>
+    <div class="card">
+        <form method="POST" action="{{url_for('congruencialMultiplicativo')}}" id="formS">
+            <div class="container">
+                <div class="form-row">
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Número iteraciones(n)</label>
+                        <input name="numeroIteraciones" type="number" class="form-control" id="validationDefault01"
+                            required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault02">Semilla(X0)</label>
+                        <input name="semilla" type="number" class="form-control" id="validationDefault02" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Multiplicador(a)</label>
+                        <input name="multiplicador" type="number" class="form-control" id="validationDefault01"
+                            required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Módulo(m)</label>
+                        <input name="modulo" type="number" class="form-control" id="validationDefault01" required>
+                    </div>
+                </div>
+                <button class="btn btn-success" id="btnS" type="submit">Calcular</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+{% if data %}
+
+<div class="container">
+    <strong id="titlePage">Resultados de la grafica</strong>
+    <div class="card">
+        <center><img src="data:image/png;base64,{{ image }}"></center>
+    </div>
+</div>
+
+<div class="container">
+    <strong id="titlePage">Resultados de la grafica</strong>
+</div>
+
+<div class="container">
+    {{data|safe}}
+</div>
+
+{% endif %}
+
+{% endblock %}

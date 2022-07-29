@@ -1,0 +1,84 @@
+{% extends "layout.html" %}
+
+{% block title %}
+<title>Sistema de inventario</title>
+{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/secciones.css')}}">
+
+<div class="container">
+    <strong id="titlePage">Sistema de inventario</strong>
+    <div class="card">
+        <form method="POST" action="{{url_for('sistemaInventario')}}" id="formS">
+            <div class="container">
+                <div class="form-row">
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Demanda</label>
+                        <input name="demanda" type="number" step="any" class="form-control" id="validationDefault01"
+                            required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault02">Costo de ordenar</label>
+                        <input name="costoOrdenar" type="number" step="any" class="form-control"
+                            id="validationDefault02" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Costo de mantenimiento</label>
+                        <input name="costoMantenimiento" type="number" step="any" class="form-control"
+                            id="validationDefault01" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault02">Costo del producto</label>
+                        <input name="costoProducto" type="number" step="any" class="form-control"
+                            id="validationDefault02" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Tiempo de espera</label>
+                        <input name="tiempoEspera" type="number" step="any" class="form-control"
+                            id="validationDefault01" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Dias/Año</label>
+                        <input name="diasAno" type="number" class="form-control" id="validationDefault01" required>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationDefault01">Número iteraciones</label>
+                        <input name="numeroIteraciones" type="number" class="form-control" id="validationDefault01"
+                            required>
+                    </div>
+                </div>
+                <button class="btn btn-success" id="btnS" type="submit">Calcular</button>                
+            </div>
+        </form>
+    </div>
+</div>
+
+{% if data %}
+<div class="container">
+    <strong id="titlePage">Resultados de la grafica</strong>
+    <div class="card">
+        <center><img src="data:image/png;base64,{{ image }}"></center>
+    </div>
+</div><br>
+
+<div class="container">
+    <strong id="titlePage">Resultados de la tabla</strong>
+    {{data|safe}}
+</div>
+
+<div class="container">
+    <strong id="titlePage">Resultados de la tabla</strong>
+    {{data2|safe}}
+</div>
+
+<div class="container">
+    <strong id="titlePage">Resultados de la tabla</strong>
+</div>
+
+<div class="container">
+    {{data3|safe}}
+</div>
+{% endif %}
+
+{% endblock %}

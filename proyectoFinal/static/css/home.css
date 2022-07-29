@@ -1,0 +1,19 @@
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    text-align: justify;
+    width: 70%;
+}
+.container #titlePage{
+    color: green;
+    font-size:large;
+    text-align: center;
+}
+
+.container #btnHome{
+    background-color: green;
+}
