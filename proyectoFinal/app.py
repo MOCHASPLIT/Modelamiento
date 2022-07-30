@@ -1,3 +1,4 @@
+from email.mime import image
 from io import StringIO
 from os import write
 import re
@@ -12,10 +13,6 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 @app.after_request
 def add_header(r):
-    """
-    Add headers to both force latest IE rendering engine or Chrome Frame,
-    and also to cache the rendered page for 10 minutes.
-    """
     r.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
     r.headers["Pragma"] = "no-cache"
     r.headers["Expires"] = "0"
@@ -23,9 +20,75 @@ def add_header(r):
     return r
 
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def home():
-    return render_template('home.html')
+    if request.method == 'GET':
+        import numpy as np
+        import pandas as pd
+        import matplotlib.pyplot as plt
+        from pandas import ExcelWriter
+        from matplotlib import pyplot as plt
+        from matplotlib.backends.backend_agg import FigureCanvasAgg
+        from matplotlib.figure import Figure
+        import io
+        from io import BytesIO
+        import base64
+        
+        datos = pd.read_excel('static/files/shoes.xlsx')
+        data1 = datos.head().to_html(classes="table table-hover table-striped",
+                        justify="justify-all", border=0)
+        demanda = datos.filter(items=["Region", "Ventas"])
+        data2 = demanda.head().to_html(classes="table table-hover table-striped",
+                        justify="justify-all", border=0)
+        demandas = demanda.groupby("Region")
+        data3 = demandas.sum().to_html(classes="table table-hover table-striped",
+                        justify="justify-all", border=0)
+        tot=demandas.mean()
+        data4 = tot.round(2).to_html(classes="table table-hover table-striped",
+                        justify="justify-all", border=0)
+        buf = io.BytesIO()
+        plt.figure(figsize=[20,10])
+        plt.plot(tot["Ventas"])
+        fig = plt.gcf()
+        canvas = FigureCanvasAgg(fig)
+        canvas.print_png(buf)
+        fig.clear()
+        plot_url = base64.b64encode(buf.getvalue()).decode('UTF-8')
+        # Ordenamos
+        suma = tot['Ventas'].sum()
+        n=len(tot)
+        suma
+        x1 = tot.assign(Probabilidad=lambda x: x['Ventas'] / suma)
+        x2 = x1.sort_values('Region')
+        a = x2['Probabilidad']
+        data5 = x2.round(2).to_html(classes="table table-hover table-striped",
+                        justify="justify-all", border=0)
+        
+        a1= np.cumsum(a) #Cálculo la suma acumulativa de las probabilidades
+        x2['FPA']=a1
+        x2['Ventas'].round(2)
+        
+        data6 = x2.round(2).to_html(classes="table table-hover table-striped",
+                        justify="justify-all", border=0)
+        
+        buf2 = io.BytesIO()
+        plt.figure(figsize=[20,10])
+        plt.plot(x2["Probabilidad"])
+        plt.plot(x2["FPA"])
+        fig = plt.gcf()
+        canvas = FigureCanvasAgg(fig)
+        canvas.print_png(buf2)
+        fig.clear()
+        plot_url2 = base64.b64encode(buf2.getvalue()).decode('UTF-8')
+        return render_template('home.html', data=data1, data2=data2, data3=data3, data4=data4, image=plot_url, data5=data5 ,image2=plot_url2, data6=data6)
+
+@app.route('/manual')
+def manual():
+    return render_template('manual.html')
+
+@app.route('/video')
+def video():
+    return render_template('video.html')
 
 # Pestañas del layaut
 @app.route('/numerosaleatorios')
@@ -101,12 +164,6 @@ def cuadradosmedios():
 
         data = df.to_html(classes="table table-hover table-striped",
                         justify="justify-all", border=0)
-
-        """ writer = ExcelWriter("static/file/data.xlsx")
-        df.to_excel(writer, index=False)
-        writer.save()
-                
-        df.to_csv("static/file/data.csv", index=False) """
 
         return render_template('printCuadradosMedios.html', data=data, image=plot_url)
     return render_template('printCuadradosMedios.html')

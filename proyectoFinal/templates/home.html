@@ -8,20 +8,63 @@
 <div class="container">
   <strong id="titlePage">Propósito de la pagina web.</strong>
   <p>
-    El software desarrollado se creó con la finalidad de 
-    simular un sistema de la vida real, además de aplicar 
-    todos conocimientos adquiridos en clases de acuerdo con 
+    El software desarrollado se creó con la finalidad de
+    simular un sistema de la vida real, además de aplicar
+    todos conocimientos adquiridos en clases de acuerdo con
     el silabo de la asignatura de la materia.
   </p>
   <strong id="titlePage">Fuente de datos.</strong>
   <p>
-    A lo largo de este parcial se trabajó con los datos de 
-    una marca de tienda internacional la cual tiene diversos 
-    tipos de productos en sus inventarios. Cabe recalcar que los 
-    datos recolectados son tanto de tipo cuantitativos y cualitativos 
+    A lo largo de este parcial se trabajó con los datos de
+    una marca de tienda internacional la cual tiene diversos
+    tipos de productos en sus inventarios. Cabe recalcar que los
+    datos recolectados son tanto de tipo cuantitativos y cualitativos
     los cuales servirán a lo largo del desarrollo y evaluación de software.
   </p>
-  <img src="/static/image/WHome.png" alt="">
-  <a class="btn btn-success" id="btnHome"href="https://github.com/MOCHASPLIT/Modelamiento/blob/main/Fuente%20de%20datos/shoes.csv" role="button">Consultar</a>
+  <img src="/static/image/WHome.png" style="width: 70%;" alt="">
+  <a class="btn btn-success" id="btnHome"
+    href="https://github.com/MOCHASPLIT/Modelamiento/blob/main/Fuente%20de%20datos/shoes.csv"
+    role="button">Consultar</a> <br> <br> <br>
+
+    <strong id="titlePage">Problematica</strong>
+    <p>
+      Se desea conocer que region es la que ha tenido mas ventas 
+      de acuerdo a los datos registrados en el dataset.
+    </p>
+    <p><strong>1)</strong> Importamos nuestro dataset, en este caso solo
+    mostramos la cabezera, por que la cantidad de filas que en este tiene son bastantes.</p>
+    {{data|safe}}<br>
+
+    <p><strong>2)</strong> Seleccionamos las columnas con las que vamos a trabajar.
+    </p>
+    {{data2|safe}}<br>
+
+    <p><strong>3)</strong> Procedemos a agrupar las ventas por regiones.
+    </p>
+    {{data3|safe}}<br>
+
+    <p><strong>4)</strong> Calculamos el promedio de esas ventas en cada region.
+    </p>
+    {{data4|safe}}<br>
+
+    <strong id="titlePage">Resultados de la grafica</strong>
+    <div class="card">
+        <center><img src="data:image/png;base64,{{ image }}" style="width:100% ;"></center>
+    </div><br>
+    
+    <p><strong>5)</strong> Calculamos la probabilidad que existe en cada una.
+    </p>
+    {{data5|safe}}<br>
+
+    <p><strong>5)</strong> Se calcula la suma acumulativa de las probabilidades.
+    </p>
+    {{data6|safe}}<br>
+
+    <strong id="titlePage">Resultados de la grafica</strong>
+    <div class="card">
+        <center><img src="data:image2/png;base64,{{ image2 }}" style="width:100% ;"></center>
+    </div>
+
 </div>
+
 {% endblock %}
