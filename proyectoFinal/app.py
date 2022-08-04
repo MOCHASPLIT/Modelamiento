@@ -47,7 +47,7 @@ def home():
         data4 = tot.round(2).to_html(classes="table table-hover table-striped",
                         justify="justify-all", border=0)
         buf = io.BytesIO()
-        plt.figure(figsize=[20,10])
+
         plt.plot(tot["Ventas"])
         fig = plt.gcf()
         canvas = FigureCanvasAgg(fig)
@@ -72,7 +72,7 @@ def home():
                         justify="justify-all", border=0)
         
         buf2 = io.BytesIO()
-        plt.figure(figsize=[20,10])
+        """ plt.figure(figsize=[20,10]) """
         plt.plot(x2["Probabilidad"])
         plt.plot(x2["FPA"])
         fig = plt.gcf()
